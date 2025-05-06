@@ -1,0 +1,19 @@
+[
+    {"name": "Kalle Anka", "address": "Ankeborg 1", "email": "kalle@anka.org", "telephone": "123-3245"},
+    {"name": "Kajsa Anka", "address": "Ankeborg 2", "email": "kajsa@anka.org", "telephone": "234-5675"},
+    {"name": "Farmor Anka", "address": "Ankeborg 3", "email": "farmor@anka.org", "telephone": "345-7475"},
+    {"name": "Knatte Anka", "address": "Ankeborg 4", "email": "knatte@anka.org", "telephone": "564-6152"},
+    {"name": "Fnatte Anka", "address": "Ankeborg 5", "email": "fnatte@anka.org", "telephone": "321-3245"},
+    {"name": "Tjatte Anka", "address": "Ankeborg 6", "email": "tjatte@anka.org", "telephone": "231-3345"},
+    {"name": "Joakim von Anka", "address": "Rikemansborgen 1", "email": "joakim@anka.org", "telephone": "435-3745"},
+    {"name": "Långben", "address": "Ankeborg 7", "email": "langben@hund.org", "telephone": "345-1287"},
+    {"name": "Musse Pigg", "address": "Ankeborg 8", "email": "musse@pigg.org", "telephone": "737-1844"},
+    {"name": "Mimmi Pigg", "address": "Ankeborg 9", "email": "mimmi@pigg.org", "telephone": "654-2115"},
+    {"name": "Piff", "address": "Skogen 1", "email": "piff@ekorre.org", "telephone": "333-4555"},
+    {"name": "Puff", "address": "Skogen 2", "email": "puff@ekorre.org", "telephone": "333-4556"},
+    {"name": "Spökplumpen", "address": "Spökslottet 666", "email": "spok@plump.org", "telephone": "000-0000"},
+    {"name": "Magica de Hex", "address": "Trollerivägen 7", "email": "magica.de.hex@sorcery.net", "telephone": "777-7777"},
+    {"name": "Kicki Anka", "address": "Ankeborg 10", "email": "kicki@anka.org", "telephone": "126-3285"},
+    {"name": "Pippi Anka", "address": "Ankeborg 11", "email": "pippi@anka.org", "telephone": "127-3285"},
+    {"name": "Titti Anka", "address": "Ankeborg 12", "email": "titti@anka.org", "telephone": "128-3285"}
+]
